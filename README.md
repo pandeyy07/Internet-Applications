@@ -1,2 +1,2 @@
-# cs4400
+# Internet Applications
 assignments
